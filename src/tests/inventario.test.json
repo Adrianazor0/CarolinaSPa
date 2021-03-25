@@ -1,7 +1,0 @@
-{
-    "id_proveedor": 1,
-    "id_producto": 1,
-    "cantidad": 50,
-    "fechaVencimiento": "01/01/2000",
-    "cantidadMinima": 20
-}
